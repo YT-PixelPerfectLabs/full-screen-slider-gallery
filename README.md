@@ -6,7 +6,7 @@
 
 Here’s a preview of the **Full Screen Slider Gallery**:
 
-![Full Screen Slider Gallery](./images/demo-thumbnail.png)
+![Full Screen Slider Gallery](demo-thumbnail.png)
 
 ## Features
 
